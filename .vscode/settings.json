@@ -2,6 +2,10 @@
     "java.project.sourcePaths": ["src"],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "lib/**/*.jar"
+        "lib/**/*.jar",
+        "d:\\Users\\antony\\Documentos\\Laboral\\Universidad Santo Tomas\\Materias\\Estructuras de Datos\\Library\\Jackson-databind\\byte-buddy-1.14.9.jar",
+        "d:\\Users\\antony\\Documentos\\Laboral\\Universidad Santo Tomas\\Materias\\Estructuras de Datos\\Library\\Jackson-databind\\jackson-annotations-2.17.0-rc1.jar",
+        "d:\\Users\\antony\\Documentos\\Laboral\\Universidad Santo Tomas\\Materias\\Estructuras de Datos\\Library\\Jackson-databind\\jackson-core-2.17.0-rc1.jar",
+        "d:\\Users\\antony\\Documentos\\Laboral\\Universidad Santo Tomas\\Materias\\Estructuras de Datos\\Library\\Jackson-databind\\jackson-databind-2.17.0-rc1.jar"
     ]
 }

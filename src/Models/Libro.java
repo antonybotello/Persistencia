@@ -6,7 +6,6 @@ enum EstadoLibro {
     DESCONTINUADO
 }
 public class Libro {
-    private int id;
     private String titulo;
     private Autor autor;
     private Biblioteca biblioteca;
@@ -15,20 +14,17 @@ public class Libro {
         this.estado = EstadoLibro.DISPONIBLE;
     }
     
-    public Libro(int id, String titulo, Autor autor, Biblioteca biblioteca, EstadoLibro estado) {
-        this.id = id;
+   
+    public Libro( String titulo, Autor autor, Biblioteca biblioteca) {
+        
         this.titulo = titulo;
         this.autor = autor;
         this.biblioteca = biblioteca;
-        this.estado = estado;
-    }
+        this.estado = EstadoLibro.DISPONIBLE;
 
-    public int getId() {
-        return id;
+      
     }
-    public void setId(int id) {
-        this.id = id;
-    }
+   
     public String getTitulo() {
         return titulo;
     }

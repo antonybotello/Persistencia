@@ -1,22 +1,15 @@
 package Models;
 
 public class Biblioteca {
-    private int id;
     private String nombre;
     private String direccion;
     public Biblioteca() {
     }
-    public Biblioteca(int id, String nombre, String direccion) {
-        this.id = id;
+    public Biblioteca(String nombre, String direccion) {
         this.nombre = nombre;
         this.direccion = direccion;
     }
-    public int getId() {
-        return id;
-    }
-    public void setId(int id) {
-        this.id = id;
-    }
+   
     public String getNombre() {
         return nombre;
     }

@@ -1,0 +1,50 @@
+[
+    {
+        "titulo": "El señor de los anillos",
+        "autor": {
+            "nombre": "J.R.R.",
+            "apellido": "Tolkien"
+        },
+        "biblioteca": {
+            "nombre": "Biblioteca Central",
+            "direccion": "Calle Principal, Ciudad"
+        },
+        "estado": "DISPONIBLE"
+    },
+    {
+        "titulo": "Las dos torres",
+        "autor": {
+            "nombre": "J.R.R.",
+            "apellido": "Tolkien"
+        },
+        "biblioteca": {
+            "nombre": "Biblioteca Central",
+            "direccion": "Calle Principal, Ciudad"
+        },
+        "estado": "DISPONIBLE"
+    },
+    {
+        "titulo": "El retorno del rey",
+        "autor": {
+            "nombre": "J.R.R.",
+            "apellido": "Tolkien"
+        },
+        "biblioteca": {
+            "nombre": "Biblioteca Central",
+            "direccion": "Calle Principal, Ciudad"
+        },
+        "estado": "DISPONIBLE"
+    },
+    {
+        "titulo": "s",
+        "autor": {
+            "nombre": "s",
+            "apellido": "s"
+        },
+        "biblioteca": {
+            "nombre": "s",
+            "direccion": "s"
+        },
+        "estado": "DISPONIBLE"
+    }
+]
